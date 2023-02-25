@@ -1,0 +1,3 @@
+/home/eyvy/test/c_challenge/build/CMakeFiles/rebuild_cache.dir
+/home/eyvy/test/c_challenge/build/CMakeFiles/edit_cache.dir
+/home/eyvy/test/c_challenge/build/CMakeFiles/BackC.dir

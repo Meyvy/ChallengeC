@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/BackC.dir/src/main.c.o -o BackC 

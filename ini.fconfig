@@ -1,0 +1,7 @@
+[address]
+port=8080
+[prefix]
+p1=int_table
+p2=string_table
+p1=another_int_table
+p2=another_string_table
